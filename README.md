@@ -20,7 +20,7 @@ Building modern, scalable full-stack applications — and exploring how AI/LLMs 
 
 - 🔹 **[CV Analyzer AI](https://github.com/Ambdulghaffar/cv-analyzer-infra)** — Dockerized fullstack platform (Next.js + FastAPI) using an LLM to score resume/job compatibility, with candidate ranking and cover letter generation.
 
-- 🔹 **[Fullstack Stock Management](https://github.com/Ambdulghaffar)** — Inventory management app with Next.js (frontend) and Spring Boot (backend), JWT auth, and Clean Architecture.
+- 🔹 **[Fullstack Stock Management](https://github.com/Ambdulghaffar/stockflow-api)** — Inventory management app with Next.js (frontend) and Spring Boot (backend), JWT auth, and Clean Architecture.
 
 - 🔹 **[Fraud Investigation Chatbot](https://github.com/Ambdulghaffar)** — LLM-driven conversational agent simulating fraud investigation workflows.
 
