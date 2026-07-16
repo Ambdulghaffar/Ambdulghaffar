@@ -1,100 +1,61 @@
-<h1 align="center">Hi 👋, I'm AMBDULGHAFFAR AHAMADI</h1>
-<h3 align="center">Fullstack Developer (Spring Boot / Next.js) • AI Engineer in Progress</h3>
+<h1 align="center">Hi 👋, I'm Ambdulghaffar Ahamadi</h1>
+<h3 align="center">Full-Stack Developer | M.Sc. Software Quality Engineering | React · Next.js · Spring Boot · Laravel</h3>
 
 <p align="center">
-Building scalable web apps & integrating AI/LLMs into real-world systems
+Building modern, scalable full-stack applications — and exploring how AI/LLMs fit into real-world systems.
 </p>
 
 ---
 
-## 🚀 About Me
+### 🚀 About Me
 
-- 💻 Fullstack developer focused on **Spring Boot + Next.js**
-- 🤖 Passionate about **Machine Learning & LLM integration**
-- 🧠 Building projects combining **AI + Web Applications**
-- ⚙️ Interested in **system design, scalable architectures & clean code**
-
----
-
-## 📌 Featured Projects
-
-- 🔹 **Stock Management System (Fullstack)**  
-  Next.js + Spring Boot application with secure authentication (JWT, NextAuth), clean architecture (DTO, layered backend) and scalable design.
-
-- 🔹 **AI CV Analyzer**  
-  Machine Learning-based application for CV parsing and analysis using Python, Streamlit and LLM integration (Groq API).
-
-- 🔹 **LLM Investigation Chatbot (Fraud Detection)**  
-  Intelligent conversational agent using LLMs to simulate investigation flows and validate transactions.
-
-- 🔹 **Nutrition Tracking App**  
-  Modern web application built with Next.js, TypeScript, Tailwind and Shadcn UI for tracking and managing nutrition data.
-
-- 🔹 **Restaurant Management SPA**  
-  React-based single page application for menu and order management with dynamic UI.
-
-- 🔹 **Medical Appointment System**  
-  Laravel-based platform for managing patient-doctor appointments (PFE project) with UML design.
+- 🎓 Master's degree in Software Quality Engineering
+- 💻 Full-stack developer — **React/Next.js** on the frontend, **Spring Boot** & **Laravel** on the backend
+- 🤖 Also building projects at the intersection of software engineering and AI/LLMs
+- ⚙️ Focused on clean architecture, maintainable code, and scalable system design
 
 ---
 
-## 🧠 AI / ML Stack
+### 📌 Featured Projects
 
-`Scikit-learn` • `PyTorch` • `Streamlit` • `LLMs (Groq API)`  
-Classification • Regression • Clustering  
+- 🔹 **[CV Analyzer AI](https://github.com/Ambdulghaffar/cv-analyzer-infra)** — Dockerized fullstack platform (Next.js + FastAPI) using an LLM to score resume/job compatibility, with candidate ranking and cover letter generation.
 
----
+- 🔹 **[Fullstack Stock Management](https://github.com/Ambdulghaffar)** — Inventory management app with Next.js (frontend) and Spring Boot (backend), JWT auth, and Clean Architecture.
 
-## 🛠️ Tech Stack
-
-### 💻 Languages
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
+- 🔹 **[Fraud Investigation Chatbot](https://github.com/Ambdulghaffar)** — LLM-driven conversational agent simulating fraud investigation workflows.
 
 ---
 
-### 🎨 Frontend
+### 🛠️ Tech Stack
+
+**Frontend**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
-![Shadcn](https://img.shields.io/badge/Shadcn_UI-black?style=for-the-badge)
 
----
-
-### ⚙️ Backend
+**Backend**
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
----
-
-### 🗄️ Database & Auth
+**Database & Auth**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge)
-![NextAuth](https://img.shields.io/badge/NextAuth-black?style=for-the-badge)
-![Keycloak](https://img.shields.io/badge/Keycloak-000000?style=for-the-badge)
 
----
+**AI / ML**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### ⚙️ Tools & DevOps
+**Tools & DevOps**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 
 ---
 
-
-## 🌐 Connect With Me
+### 🌐 Connect With Me
 
 <p align="center">
 <a href="https://linkedin.com/in/ambdulghaffar-ahamadi-7a476839a">
